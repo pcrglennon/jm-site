@@ -1,0 +1,18 @@
+/* compensate for navbar */
+body { padding-top: 70px; }
+
+.top {
+  background-color: #537DB3;
+}
+
+.header h1, .subheader h2 {
+  text-align: center;
+}
+
+.header {
+  margin: 100px 0 20px 0;
+}
+
+.subheader {
+  margin-bottom: 30px;
+}
